@@ -12,7 +12,7 @@ bands.addBand(new Band('Metallica'));
 bands.addBand(new Band('Kiss'));
 
 
-console.log(bands);
+//console.log(bands);
 
 
 
